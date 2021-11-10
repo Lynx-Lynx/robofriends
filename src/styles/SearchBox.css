@@ -1,0 +1,10 @@
+.searchbox {
+  height: 50px;
+  width: 250px;
+  border: none;
+  border-radius: 20px;
+}
+
+.searchbox:focus {
+  outline: none;
+}
